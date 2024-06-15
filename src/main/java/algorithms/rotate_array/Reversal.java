@@ -1,4 +1,4 @@
-package algorithms.rotatearray;
+package algorithms.rotate_array;
 
 public class Reversal {
 
@@ -35,7 +35,7 @@ public class Reversal {
         while (left < right) {
             int temp = nums[left];
             nums[left] = nums[right];
-            nums[right]=temp;
+            nums[right] = temp;
             left++;
             right--;
         }

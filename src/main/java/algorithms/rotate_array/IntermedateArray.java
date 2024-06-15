@@ -1,4 +1,4 @@
-package algorithms.rotatearray;
+package algorithms.rotate_array;
 
 public class IntermedateArray {
 
