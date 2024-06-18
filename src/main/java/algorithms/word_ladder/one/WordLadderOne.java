@@ -1,4 +1,4 @@
-package algorithms.word_ladder;
+package algorithms.word_ladder.one;
 
 import java.util.Arrays;
 import java.util.HashSet;
