@@ -28,6 +28,7 @@ public class WordLadderTwo {
         int preNumSteps = 0;
 
         while(!queue.isEmpty()) {
+            System.out.println(queue);
             WordNode top = queue.remove();
             String word = top.word;
             int currNumsteps = top.numSteps;

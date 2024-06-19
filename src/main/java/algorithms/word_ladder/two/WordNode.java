@@ -10,4 +10,13 @@ public class WordNode {
         this.numSteps = numSteps;
         this.pre = pre;
     }
+
+    @Override
+    public String toString() {
+        return "WordNode{" +
+                "word='" + word + '\'' +
+                ", numSteps=" + numSteps +
+                ", pre=" + pre +
+                '}';
+    }
 }
