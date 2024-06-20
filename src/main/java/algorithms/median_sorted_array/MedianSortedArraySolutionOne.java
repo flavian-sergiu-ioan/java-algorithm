@@ -4,7 +4,7 @@ public class MedianSortedArraySolutionOne {
 
     public static void main(String[] args) {
 
-        int [] a = new int[] {1, 2, 3, 4};
+        int [] a = new int[] {1, 2, 3, 4, 5};
         int [] b = new int[] {1, 2, 3, 4};
 
         System.out.println(findMedianSortedArray(a, b));
