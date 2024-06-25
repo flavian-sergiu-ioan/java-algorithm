@@ -1,6 +1,6 @@
 package algorithms.leet_code.merge_two_sorted_lists;
 
-public class MergeTwoSortedLists {
+public class MergeTwoSortedListsIteratively {
 
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1);
